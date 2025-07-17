@@ -23,7 +23,7 @@
 ---
 
 ## 📫 **Как да се свържеш с мен**
-- **Email:** ivan@example.com  
+- **Email:** popangelov@abv.bg
 - **LinkedIn:** www.linkedin.com/in/ivan-popangelov
 ---
 
