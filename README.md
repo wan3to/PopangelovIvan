@@ -24,7 +24,7 @@
 
 ## 📫 **Как да се свържеш с мен**
 - **Email:** ivan@example.com  
-- **LinkedIn:** [linkedin.com/in/твоето-име](https://linkedin.com/in/твоето-име)
+- **LinkedIn:** www.linkedin.com/in/ivan-popangelov](www.linkedin.com/in/ivan-popangelov)
 
 ---
 
