@@ -24,8 +24,7 @@
 
 ## 📫 **Как да се свържеш с мен**
 - **Email:** ivan@example.com  
-- **LinkedIn:** www.linkedin.com/in/ivan-popangelov](www.linkedin.com/in/ivan-popangelov)
-
+- **LinkedIn:** www.linkedin.com/in/ivan-popangelov
 ---
 
 ⭐ **Ако ти харесват проектите ми, може да им дадеш звезда!**
